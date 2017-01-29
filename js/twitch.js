@@ -1,4 +1,4 @@
-var channels = ["freecodecamp","test_channel","ESL_SC2"];
+var channels = ["freecodecamp","test_channel","ESL_SC2", "eleaguetv", "atk", "ESL_SC2", "OgamingSC2", "cretetion", "storbeck", "habathcx", "RobotCaleb", "noobs2ninjas"];
 
 function getChannelInfo() {
   channels.forEach(function(channel) {
